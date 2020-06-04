@@ -1,0 +1,951 @@
+Unnamed: 0,game_id,game_title,month,peak_users,picture_url
+673289,730,Counter-Strike: Global Offensive,2020-05-01,1204224,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691830,570,Dota 2,2020-05-01,789156,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693028,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2020-05-01,552527,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+584089,105600,Terraria,2020-05-01,486918,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+663274,271590,Grand Theft Auto V,2020-05-01,260562,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687272,359550,Tom Clancy's Rainbow Six Siege,2020-05-01,146359,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+620728,1100600,Football Manager 2020,2020-05-01,123114,https://steamcdn-a.akamaihd.net/steam/apps/1100600/logo.png
+524149,582010,MONSTER HUNTER: WORLD,2020-05-01,106972,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+667261,252490,Rust,2020-05-01,102051,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691657,346110,ARK: Survival Evolved,2020-05-01,101631,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+673290,730,Counter-Strike: Global Offensive,2020-04-01,1305714,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693029,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2020-04-01,913075,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691831,570,Dota 2,2020-04-01,801121,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+586305,261550,Mount & Blade II: Bannerlord,2020-04-01,248034,https://steamcdn-a.akamaihd.net/steam/apps/261550/logo.png
+663275,271590,Grand Theft Auto V,2020-04-01,243284,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687273,359550,Tom Clancy's Rainbow Six Siege,2020-04-01,194102,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+524150,582010,MONSTER HUNTER: WORLD,2020-04-01,149860,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+620729,1100600,Football Manager 2020,2020-04-01,146436,https://steamcdn-a.akamaihd.net/steam/apps/1100600/logo.png
+679388,477160,Human: Fall Flat,2020-04-01,127516,https://steamcdn-a.akamaihd.net/steam/apps/477160/logo.png
+691658,346110,ARK: Survival Evolved,2020-04-01,125636,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+673291,730,Counter-Strike: Global Offensive,2020-03-01,1145972,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691832,570,Dota 2,2020-03-01,743933,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693030,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2020-03-01,562028,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+524151,582010,MONSTER HUNTER: WORLD,2020-03-01,219544,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+663276,271590,Grand Theft Auto V,2020-03-01,209493,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687274,359550,Tom Clancy's Rainbow Six Siege,2020-03-01,198567,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+620730,1100600,Football Manager 2020,2020-03-01,189230,https://steamcdn-a.akamaihd.net/steam/apps/1100600/logo.png
+691659,346110,ARK: Survival Evolved,2020-03-01,157355,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+627926,238960,Path of Exile,2020-03-01,132508,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+691234,252950,Rocket League,2020-03-01,119124,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+673292,730,Counter-Strike: Global Offensive,2020-02-01,916996,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691833,570,Dota 2,2020-02-01,663812,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693031,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2020-02-01,606689,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+663277,271590,Grand Theft Auto V,2020-02-01,267360,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+524152,582010,MONSTER HUNTER: WORLD,2020-02-01,224419,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+687275,359550,Tom Clancy's Rainbow Six Siege,2020-02-01,178824,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+691660,346110,ARK: Survival Evolved,2020-02-01,138648,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+613290,424370,Wolcen: Lords of Mayhem,2020-02-01,127542,https://steamcdn-a.akamaihd.net/steam/apps/424370/logo.png
+694005,1085660,Destiny 2,2020-02-01,93065,https://steamcdn-a.akamaihd.net/steam/apps/1085660/logo.png
+667264,252490,Rust,2020-02-01,92016,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+673293,730,Counter-Strike: Global Offensive,2020-01-01,817229,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693032,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2020-01-01,645414,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691834,570,Dota 2,2020-01-01,616415,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+524153,582010,MONSTER HUNTER: WORLD,2020-01-01,284090,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+663278,271590,Grand Theft Auto V,2020-01-01,214796,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687276,359550,Tom Clancy's Rainbow Six Siege,2020-01-01,157948,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+694006,1085660,Destiny 2,2020-01-01,108724,https://steamcdn-a.akamaihd.net/steam/apps/1085660/logo.png
+667343,292030,The Witcher 3: Wild Hunt,2020-01-01,103329,https://steamcdn-a.akamaihd.net/steam/apps/292030/logo.png
+667265,252490,Rust,2020-01-01,97340,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+627928,238960,Path of Exile,2020-01-01,84600,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+673294,730,Counter-Strike: Global Offensive,2019-12-01,767060,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693033,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-12-01,686239,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691835,570,Dota 2,2019-12-01,685165,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+656382,232770,POSTAL,2019-12-01,408008,https://steamcdn-a.akamaihd.net/steam/apps/232770/logo.png
+663279,271590,Grand Theft Auto V,2019-12-01,204137,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687277,359550,Tom Clancy's Rainbow Six Siege,2019-12-01,138681,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+694007,1085660,Destiny 2,2019-12-01,138593,https://steamcdn-a.akamaihd.net/steam/apps/1085660/logo.png
+627929,238960,Path of Exile,2019-12-01,117757,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+635097,440,Team Fortress 2,2019-12-01,103481,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+667344,292030,The Witcher 3: Wild Hunt,2019-12-01,94601,https://steamcdn-a.akamaihd.net/steam/apps/292030/logo.png
+673295,730,Counter-Strike: Global Offensive,2019-11-01,758412,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691836,570,Dota 2,2019-11-01,708517,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693034,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-11-01,695920,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+694008,1085660,Destiny 2,2019-11-01,195407,https://steamcdn-a.akamaihd.net/steam/apps/1085660/logo.png
+663280,271590,Grand Theft Auto V,2019-11-01,138540,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687278,359550,Tom Clancy's Rainbow Six Siege,2019-11-01,123848,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+632422,230410,Warframe,2019-11-01,87616,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667267,252490,Rust,2019-11-01,74292,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+635098,440,Team Fortress 2,2019-11-01,69869,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+620734,1100600,Football Manager 2020,2019-11-01,68053,https://steamcdn-a.akamaihd.net/steam/apps/1100600/logo.png
+673296,730,Counter-Strike: Global Offensive,2019-10-01,747937,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691837,570,Dota 2,2019-10-01,739924,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693035,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-10-01,637870,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+694009,1085660,Destiny 2,2019-10-01,292314,https://steamcdn-a.akamaihd.net/steam/apps/1085660/logo.png
+687279,359550,Tom Clancy's Rainbow Six Siege,2019-10-01,125590,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663281,271590,Grand Theft Auto V,2019-10-01,117002,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+667268,252490,Rust,2019-10-01,82827,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+524156,582010,MONSTER HUNTER: WORLD,2019-10-01,73764,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+635099,440,Team Fortress 2,2019-10-01,73467,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691239,252950,Rocket League,2019-10-01,68388,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691838,570,Dota 2,2019-09-01,753996,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673297,730,Counter-Strike: Global Offensive,2019-09-01,720052,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693036,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-09-01,660864,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+687280,359550,Tom Clancy's Rainbow Six Siege,2019-09-01,148365,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663282,271590,Grand Theft Auto V,2019-09-01,135072,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+524157,582010,MONSTER HUNTER: WORLD,2019-09-01,97996,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+632424,230410,Warframe,2019-09-01,80466,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667269,252490,Rust,2019-09-01,80293,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+627932,238960,Path of Exile,2019-09-01,74653,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+616650,872790,Football Manager 2019,2019-09-01,68396,https://steamcdn-a.akamaihd.net/steam/apps/872790/logo.png
+691839,570,Dota 2,2019-08-01,826690,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693037,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-08-01,750941,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673298,730,Counter-Strike: Global Offensive,2019-08-01,647461,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663283,271590,Grand Theft Auto V,2019-08-01,176207,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687281,359550,Tom Clancy's Rainbow Six Siege,2019-08-01,138827,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+632425,230410,Warframe,2019-08-01,96262,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667270,252490,Rust,2019-08-01,88929,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+616651,872790,Football Manager 2019,2019-08-01,75666,https://steamcdn-a.akamaihd.net/steam/apps/872790/logo.png
+560636,1046930,Dota Underlords,2019-08-01,74189,https://steamcdn-a.akamaihd.net/steam/apps/1046930/logo.png
+524158,582010,MONSTER HUNTER: WORLD,2019-08-01,72823,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+691840,570,Dota 2,2019-07-01,779160,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693038,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-07-01,745224,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673299,730,Counter-Strike: Global Offensive,2019-07-01,578933,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663284,271590,Grand Theft Auto V,2019-07-01,197555,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687282,359550,Tom Clancy's Rainbow Six Siege,2019-07-01,128458,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+560637,1046930,Dota Underlords,2019-07-01,111805,https://steamcdn-a.akamaihd.net/steam/apps/1046930/logo.png
+632426,230410,Warframe,2019-07-01,94907,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667271,252490,Rust,2019-07-01,93595,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+635102,440,Team Fortress 2,2019-07-01,93245,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+524159,582010,MONSTER HUNTER: WORLD,2019-07-01,91104,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+691841,570,Dota 2,2019-06-01,865374,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693039,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-06-01,745960,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673300,730,Counter-Strike: Global Offensive,2019-06-01,587724,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+560638,1046930,Dota Underlords,2019-06-01,202254,https://steamcdn-a.akamaihd.net/steam/apps/1046930/logo.png
+687283,359550,Tom Clancy's Rainbow Six Siege,2019-06-01,140274,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+616380,779340,Total War: THREE KINGDOMS,2019-06-01,119246,https://steamcdn-a.akamaihd.net/steam/apps/779340/logo.png
+627935,238960,Path of Exile,2019-06-01,113258,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+663285,271590,Grand Theft Auto V,2019-06-01,109164,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691668,346110,ARK: Survival Evolved,2019-06-01,83446,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+667272,252490,Rust,2019-06-01,81658,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691842,570,Dota 2,2019-05-01,997341,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693040,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-05-01,817595,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673301,730,Counter-Strike: Global Offensive,2019-05-01,588453,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+200287,370910,Kathy Rain,2019-05-01,336132,https://steamcdn-a.akamaihd.net/steam/apps/370910/logo.png
+616381,779340,Total War: THREE KINGDOMS,2019-05-01,191816,https://steamcdn-a.akamaihd.net/steam/apps/779340/logo.png
+687284,359550,Tom Clancy's Rainbow Six Siege,2019-05-01,115381,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663286,271590,Grand Theft Auto V,2019-05-01,108557,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+632428,230410,Warframe,2019-05-01,97068,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+692597,381210,Dead by Daylight,2019-05-01,75044,https://steamcdn-a.akamaihd.net/steam/apps/381210/logo.png
+616654,872790,Football Manager 2019,2019-05-01,71649,https://steamcdn-a.akamaihd.net/steam/apps/872790/logo.png
+691843,570,Dota 2,2019-04-01,971545,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693041,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-04-01,886255,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673302,730,Counter-Strike: Global Offensive,2019-04-01,621614,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+687285,359550,Tom Clancy's Rainbow Six Siege,2019-04-01,124989,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+632429,230410,Warframe,2019-04-01,107898,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+663287,271590,Grand Theft Auto V,2019-04-01,91586,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+667274,252490,Rust,2019-04-01,72544,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691245,252950,Rocket League,2019-04-01,67493,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+616655,872790,Football Manager 2019,2019-04-01,63163,https://steamcdn-a.akamaihd.net/steam/apps/872790/logo.png
+539002,814380,Sekiro™: Shadows Die Twice,2019-04-01,60604,https://steamcdn-a.akamaihd.net/steam/apps/814380/logo.png
+691844,570,Dota 2,2019-03-01,1033925,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693042,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-03-01,931407,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673303,730,Counter-Strike: Global Offensive,2019-03-01,680071,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+271627,696370,BROKE PROTOCOL: Online City RPG,2019-03-01,145618,https://steamcdn-a.akamaihd.net/steam/apps/696370/logo.png
+687286,359550,Tom Clancy's Rainbow Six Siege,2019-03-01,134776,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663288,271590,Grand Theft Auto V,2019-03-01,126518,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+539003,814380,Sekiro™: Shadows Die Twice,2019-03-01,124334,https://steamcdn-a.akamaihd.net/steam/apps/814380/logo.png
+632430,230410,Warframe,2019-03-01,115102,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+627938,238960,Path of Exile,2019-03-01,111114,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+622200,601150,Devil May Cry 5,2019-03-01,88735,https://steamcdn-a.akamaihd.net/steam/apps/601150/logo.png
+691845,570,Dota 2,2019-02-01,964921,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693043,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-02-01,931754,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673304,730,Counter-Strike: Global Offensive,2019-02-01,654069,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+372658,343710,KHOLAT,2019-02-01,275043,https://steamcdn-a.akamaihd.net/steam/apps/343710/logo.png
+687287,359550,Tom Clancy's Rainbow Six Siege,2019-02-01,136018,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663289,271590,Grand Theft Auto V,2019-02-01,119439,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+640336,289070,Sid Meier's Civilization VI,2019-02-01,93889,https://steamcdn-a.akamaihd.net/steam/apps/289070/logo.png
+667276,252490,Rust,2019-02-01,77622,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+632431,230410,Warframe,2019-02-01,74472,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+616657,872790,Football Manager 2019,2019-02-01,73137,https://steamcdn-a.akamaihd.net/steam/apps/872790/logo.png
+693044,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2019-01-01,1084606,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691846,570,Dota 2,2019-01-01,874888,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673305,730,Counter-Strike: Global Offensive,2019-01-01,684511,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+538589,285800,Braveland,2019-01-01,216331,https://steamcdn-a.akamaihd.net/steam/apps/285800/logo.png
+625833,278360,A Story About My Uncle,2019-01-01,189049,https://steamcdn-a.akamaihd.net/steam/apps/278360/logo.png
+687288,359550,Tom Clancy's Rainbow Six Siege,2019-01-01,137434,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663290,271590,Grand Theft Auto V,2019-01-01,118210,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+648742,308600,Geneshift,2019-01-01,114920,https://steamcdn-a.akamaihd.net/steam/apps/308600/logo.png
+524165,582010,MONSTER HUNTER: WORLD,2019-01-01,97088,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+599562,204880,Sins of a Solar Empire: Rebellion,2019-01-01,91159,https://steamcdn-a.akamaihd.net/steam/apps/204880/logo.png
+693045,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-12-01,1109766,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691847,570,Dota 2,2018-12-01,765422,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673306,730,Counter-Strike: Global Offensive,2018-12-01,746548,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+667237,863550,HITMAN™ 2,2018-12-01,356867,https://steamcdn-a.akamaihd.net/steam/apps/863550/logo.png
+648743,308600,Geneshift,2018-12-01,213183,https://steamcdn-a.akamaihd.net/steam/apps/308600/logo.png
+172419,402390,Hyperdrive Massacre,2018-12-01,180471,https://steamcdn-a.akamaihd.net/steam/apps/402390/logo.png
+550303,231430,Company of Heroes 2,2018-12-01,161908,https://steamcdn-a.akamaihd.net/steam/apps/231430/logo.png
+687289,359550,Tom Clancy's Rainbow Six Siege,2018-12-01,129558,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+627941,238960,Path of Exile,2018-12-01,123462,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+663291,271590,Grand Theft Auto V,2018-12-01,120693,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+693046,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-11-01,895650,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691848,570,Dota 2,2018-11-01,826053,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673307,730,Counter-Strike: Global Offensive,2018-11-01,546031,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+178781,395170,DISTRAINT: Deluxe Edition,2018-11-01,162795,https://steamcdn-a.akamaihd.net/steam/apps/395170/logo.png
+632434,230410,Warframe,2018-11-01,131766,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+524167,582010,MONSTER HUNTER: WORLD,2018-11-01,122496,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+687290,359550,Tom Clancy's Rainbow Six Siege,2018-11-01,115820,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+691675,346110,ARK: Survival Evolved,2018-11-01,106170,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635110,440,Team Fortress 2,2018-11-01,93560,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663292,271590,Grand Theft Auto V,2018-11-01,81360,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+693047,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-10-01,1048662,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691849,570,Dota 2,2018-10-01,739643,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673308,730,Counter-Strike: Global Offensive,2018-10-01,565968,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+654206,491950,Orwell,2018-10-01,150575,https://steamcdn-a.akamaihd.net/steam/apps/491950/logo.png
+556854,638070,Murderous Pursuits,2018-10-01,144294,https://steamcdn-a.akamaihd.net/steam/apps/638070/logo.png
+687291,359550,Tom Clancy's Rainbow Six Siege,2018-10-01,123794,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+524168,582010,MONSTER HUNTER: WORLD,2018-10-01,122588,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+583982,510840,Evolvation,2018-10-01,100638,https://steamcdn-a.akamaihd.net/steam/apps/510840/logo.png
+632435,230410,Warframe,2018-10-01,99735,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+635111,440,Team Fortress 2,2018-10-01,97329,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+693048,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-09-01,1125229,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691850,570,Dota 2,2018-09-01,826166,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673309,730,Counter-Strike: Global Offensive,2018-09-01,583029,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+524169,582010,MONSTER HUNTER: WORLD,2018-09-01,227644,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+151926,96000,The Tiny Bang Story,2018-09-01,163735,https://steamcdn-a.akamaihd.net/steam/apps/96000/logo.png
+687292,359550,Tom Clancy's Rainbow Six Siege,2018-09-01,143866,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663294,271590,Grand Theft Auto V,2018-09-01,97920,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+632436,230410,Warframe,2018-09-01,86984,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+691252,252950,Rocket League,2018-09-01,75882,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+627944,238960,Path of Exile,2018-09-01,75484,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+693049,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-08-01,1260894,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691851,570,Dota 2,2018-08-01,829281,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673310,730,Counter-Strike: Global Offensive,2018-08-01,454370,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+524170,582010,MONSTER HUNTER: WORLD,2018-08-01,329333,https://steamcdn-a.akamaihd.net/steam/apps/582010/logo.png
+627287,304390,For Honor,2018-08-01,216499,https://steamcdn-a.akamaihd.net/steam/apps/304390/logo.png
+687293,359550,Tom Clancy's Rainbow Six Siege,2018-08-01,134159,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663295,271590,Grand Theft Auto V,2018-08-01,123556,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+632116,222880,Insurgency,2018-08-01,121264,https://steamcdn-a.akamaihd.net/steam/apps/222880/logo.png
+632437,230410,Warframe,2018-08-01,107100,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+638685,275850,No Man's Sky,2018-08-01,83156,https://steamcdn-a.akamaihd.net/steam/apps/275850/logo.png
+693050,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-07-01,1350463,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691852,570,Dota 2,2018-07-01,701582,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673311,730,Counter-Strike: Global Offensive,2018-07-01,426008,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663296,271590,Grand Theft Auto V,2018-07-01,162021,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+681772,365450,Hacknet,2018-07-01,127640,https://steamcdn-a.akamaihd.net/steam/apps/365450/logo.png
+632438,230410,Warframe,2018-07-01,118191,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+687294,359550,Tom Clancy's Rainbow Six Siege,2018-07-01,116054,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+638686,275850,No Man's Sky,2018-07-01,96954,https://steamcdn-a.akamaihd.net/steam/apps/275850/logo.png
+691254,252950,Rocket League,2018-07-01,82303,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691679,346110,ARK: Survival Evolved,2018-07-01,70823,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+693051,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-06-01,1750216,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691853,570,Dota 2,2018-06-01,796886,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673312,730,Counter-Strike: Global Offensive,2018-06-01,420261,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+623447,391720,Layers of Fear,2018-06-01,143872,https://steamcdn-a.akamaihd.net/steam/apps/391720/logo.png
+687295,359550,Tom Clancy's Rainbow Six Siege,2018-06-01,141630,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+611202,334210,Fortified,2018-06-01,135587,https://steamcdn-a.akamaihd.net/steam/apps/334210/logo.png
+632439,230410,Warframe,2018-06-01,129002,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+663297,271590,Grand Theft Auto V,2018-06-01,118332,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+621052,813820,Realm Royale,2018-06-01,104557,https://steamcdn-a.akamaihd.net/steam/apps/813820/logo.png
+627947,238960,Path of Exile,2018-06-01,95824,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+693052,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-05-01,2175704,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691854,570,Dota 2,2018-05-01,844713,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673313,730,Counter-Strike: Global Offensive,2018-05-01,454481,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+687296,359550,Tom Clancy's Rainbow Six Siege,2018-05-01,142362,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+591421,490220,Prismata,2018-05-01,121154,https://steamcdn-a.akamaihd.net/steam/apps/490220/logo.png
+681986,209080,Guns of Icarus Online,2018-05-01,102258,https://steamcdn-a.akamaihd.net/steam/apps/209080/logo.png
+663298,271590,Grand Theft Auto V,2018-05-01,82956,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+342966,439190,Stories: The Path of Destinies,2018-05-01,78966,https://steamcdn-a.akamaihd.net/steam/apps/439190/logo.png
+632440,230410,Warframe,2018-05-01,73097,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+691256,252950,Rocket League,2018-05-01,66081,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+693053,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-04-01,2456361,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691855,570,Dota 2,2018-04-01,733214,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673314,730,Counter-Strike: Global Offensive,2018-04-01,523262,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+630334,203770,Crusader Kings II,2018-04-01,140269,https://steamcdn-a.akamaihd.net/steam/apps/203770/logo.png
+687297,359550,Tom Clancy's Rainbow Six Siege,2018-04-01,124813,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+111468,232050,Eador. Masters of the Broken World,2018-04-01,115993,https://steamcdn-a.akamaihd.net/steam/apps/232050/logo.png
+669774,218620,PAYDAY 2,2018-04-01,90893,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+663299,271590,Grand Theft Auto V,2018-04-01,89792,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+621790,552520,Far Cry 5,2018-04-01,89574,https://steamcdn-a.akamaihd.net/steam/apps/552520/logo.png
+632441,230410,Warframe,2018-04-01,85227,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+693054,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-03-01,2799269,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691856,570,Dota 2,2018-03-01,773897,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673315,730,Counter-Strike: Global Offensive,2018-03-01,672502,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+687298,359550,Tom Clancy's Rainbow Six Siege,2018-03-01,176208,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663300,271590,Grand Theft Auto V,2018-03-01,94489,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+627950,238960,Path of Exile,2018-03-01,81781,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+632442,230410,Warframe,2018-03-01,81338,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+686754,552500,Warhammer: Vermintide 2,2018-03-01,73203,https://steamcdn-a.akamaihd.net/steam/apps/552500/logo.png
+691683,346110,ARK: Survival Evolved,2018-03-01,64647,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+691258,252950,Rocket League,2018-03-01,63578,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+693055,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-02-01,2934761,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691857,570,Dota 2,2018-02-01,779299,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673316,730,Counter-Strike: Global Offensive,2018-02-01,686588,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+687299,359550,Tom Clancy's Rainbow Six Siege,2018-02-01,125133,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+623154,379430,Kingdom Come: Deliverance,2018-02-01,95863,https://steamcdn-a.akamaihd.net/steam/apps/379430/logo.png
+663301,271590,Grand Theft Auto V,2018-02-01,94308,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+632443,230410,Warframe,2018-02-01,82384,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+531517,265590,The Red Solstice,2018-02-01,81972,https://steamcdn-a.akamaihd.net/steam/apps/265590/logo.png
+640348,289070,Sid Meier's Civilization VI,2018-02-01,79739,https://steamcdn-a.akamaihd.net/steam/apps/289070/logo.png
+691684,346110,ARK: Survival Evolved,2018-02-01,71259,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+693056,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2018-01-01,3236027,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691858,570,Dota 2,2018-01-01,778627,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673317,730,Counter-Strike: Global Offensive,2018-01-01,715850,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663302,271590,Grand Theft Auto V,2018-01-01,167754,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687300,359550,Tom Clancy's Rainbow Six Siege,2018-01-01,109103,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+691685,346110,ARK: Survival Evolved,2018-01-01,86640,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635120,440,Team Fortress 2,2018-01-01,72845,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+621278,624090,Football Manager 2018,2018-01-01,71279,https://steamcdn-a.akamaihd.net/steam/apps/624090/logo.png
+632444,230410,Warframe,2018-01-01,69002,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667289,252490,Rust,2018-01-01,67410,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+693057,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-12-01,3080769,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691859,570,Dota 2,2017-12-01,864939,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673318,730,Counter-Strike: Global Offensive,2017-12-01,598405,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663303,271590,Grand Theft Auto V,2017-12-01,170316,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+687301,359550,Tom Clancy's Rainbow Six Siege,2017-12-01,100433,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+691686,346110,ARK: Survival Evolved,2017-12-01,85894,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+632445,230410,Warframe,2017-12-01,76564,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+635121,440,Team Fortress 2,2017-12-01,71122,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+627953,238960,Path of Exile,2017-12-01,70314,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+691261,252950,Rocket League,2017-12-01,65275,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+693058,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-11-01,2915723,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691860,570,Dota 2,2017-11-01,861173,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673319,730,Counter-Strike: Global Offensive,2017-11-01,601881,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+632446,230410,Warframe,2017-11-01,102965,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+687302,359550,Tom Clancy's Rainbow Six Siege,2017-11-01,99110,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+663304,271590,Grand Theft Auto V,2017-11-01,85105,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635122,440,Team Fortress 2,2017-11-01,84022,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691687,346110,ARK: Survival Evolved,2017-11-01,63378,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+691262,252950,Rocket League,2017-11-01,60120,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+621280,624090,Football Manager 2018,2017-11-01,58761,https://steamcdn-a.akamaihd.net/steam/apps/624090/logo.png
+693059,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-10-01,2390946,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691861,570,Dota 2,2017-10-01,832550,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673320,730,Counter-Strike: Global Offensive,2017-10-01,639968,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+632447,230410,Warframe,2017-10-01,121377,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+635123,440,Team Fortress 2,2017-10-01,97248,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+669780,218620,PAYDAY 2,2017-10-01,92426,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+663305,271590,Grand Theft Auto V,2017-10-01,84553,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+651857,435150,Divinity: Original Sin 2,2017-10-01,80081,https://steamcdn-a.akamaihd.net/steam/apps/435150/logo.png
+691263,252950,Rocket League,2017-10-01,73684,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+680740,594570,Total War: WARHAMMER II,2017-10-01,72112,https://steamcdn-a.akamaihd.net/steam/apps/594570/logo.png
+693060,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-09-01,1550463,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+691862,570,Dota 2,2017-09-01,829555,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673321,730,Counter-Strike: Global Offensive,2017-09-01,665371,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+622373,433850,Z1 Battle Royale,2017-09-01,105111,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663306,271590,Grand Theft Auto V,2017-09-01,101433,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+651858,435150,Divinity: Original Sin 2,2017-09-01,93350,https://steamcdn-a.akamaihd.net/steam/apps/435150/logo.png
+691689,346110,ARK: Survival Evolved,2017-09-01,78303,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635124,440,Team Fortress 2,2017-09-01,73411,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691264,252950,Rocket League,2017-09-01,70230,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+680741,594570,Total War: WARHAMMER II,2017-09-01,70165,https://steamcdn-a.akamaihd.net/steam/apps/594570/logo.png
+691863,570,Dota 2,2017-08-01,876395,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+693061,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-08-01,874171,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+673322,730,Counter-Strike: Global Offensive,2017-08-01,595781,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+622374,433850,Z1 Battle Royale,2017-08-01,141064,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663307,271590,Grand Theft Auto V,2017-08-01,121830,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+627957,238960,Path of Exile,2017-08-01,98110,https://steamcdn-a.akamaihd.net/steam/apps/238960/logo.png
+687305,359550,Tom Clancy's Rainbow Six Siege,2017-08-01,73641,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+530732,482730,Football Manager 2017,2017-08-01,71624,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+635125,440,Team Fortress 2,2017-08-01,69172,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+669782,218620,PAYDAY 2,2017-08-01,62561,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+691864,570,Dota 2,2017-07-01,824297,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673323,730,Counter-Strike: Global Offensive,2017-07-01,624785,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693062,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-07-01,481291,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+622375,433850,Z1 Battle Royale,2017-07-01,150179,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663308,271590,Grand Theft Auto V,2017-07-01,112074,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+669783,218620,PAYDAY 2,2017-07-01,99900,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+691691,346110,ARK: Survival Evolved,2017-07-01,72455,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+530733,482730,Football Manager 2017,2017-07-01,69489,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+691266,252950,Rocket League,2017-07-01,68232,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+635126,440,Team Fortress 2,2017-07-01,66951,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691865,570,Dota 2,2017-06-01,923122,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673324,730,Counter-Strike: Global Offensive,2017-06-01,614621,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693063,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-06-01,267194,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+669784,218620,PAYDAY 2,2017-06-01,247628,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+622376,433850,Z1 Battle Royale,2017-06-01,134487,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663309,271590,Grand Theft Auto V,2017-06-01,131936,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691692,346110,ARK: Survival Evolved,2017-06-01,76482,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+530734,482730,Football Manager 2017,2017-06-01,72608,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+635127,440,Team Fortress 2,2017-06-01,69895,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691267,252950,Rocket League,2017-06-01,64075,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691866,570,Dota 2,2017-05-01,972876,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673325,730,Counter-Strike: Global Offensive,2017-05-01,692966,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693064,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-05-01,189456,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+622377,433850,Z1 Battle Royale,2017-05-01,124069,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663310,271590,Grand Theft Auto V,2017-05-01,83483,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691268,252950,Rocket League,2017-05-01,82254,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+635128,440,Team Fortress 2,2017-05-01,73188,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691693,346110,ARK: Survival Evolved,2017-05-01,66342,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+530735,482730,Football Manager 2017,2017-05-01,63635,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+689540,4000,Garry's Mod,2017-05-01,57000,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691867,570,Dota 2,2017-04-01,921318,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673326,730,Counter-Strike: Global Offensive,2017-04-01,709841,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+693065,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-04-01,140104,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+622378,433850,Z1 Battle Royale,2017-04-01,137985,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663311,271590,Grand Theft Auto V,2017-04-01,96503,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691694,346110,ARK: Survival Evolved,2017-04-01,73857,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635129,440,Team Fortress 2,2017-04-01,72616,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691269,252950,Rocket League,2017-04-01,65384,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+530736,482730,Football Manager 2017,2017-04-01,62124,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+689541,4000,Garry's Mod,2017-04-01,59032,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691868,570,Dota 2,2017-03-01,956232,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673327,730,Counter-Strike: Global Offensive,2017-03-01,742356,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+622379,433850,Z1 Battle Royale,2017-03-01,123838,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+663312,271590,Grand Theft Auto V,2017-03-01,98798,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691695,346110,ARK: Survival Evolved,2017-03-01,75022,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635130,440,Team Fortress 2,2017-03-01,74656,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691270,252950,Rocket League,2017-03-01,74330,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+632454,230410,Warframe,2017-03-01,69526,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+693066,578080,PLAYERUNKNOWN'S BATTLEGROUNDS,2017-03-01,67846,https://steamcdn-a.akamaihd.net/steam/apps/578080/logo.png
+667299,252490,Rust,2017-03-01,66194,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691869,570,Dota 2,2017-02-01,1040877,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673328,730,Counter-Strike: Global Offensive,2017-02-01,744468,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663313,271590,Grand Theft Auto V,2017-02-01,104902,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691696,346110,ARK: Survival Evolved,2017-02-01,100723,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+622380,433850,Z1 Battle Royale,2017-02-01,97404,https://steamcdn-a.akamaihd.net/steam/apps/433850/logo.png
+635131,440,Team Fortress 2,2017-02-01,77381,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+667300,252490,Rust,2017-02-01,68103,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+687311,359550,Tom Clancy's Rainbow Six Siege,2017-02-01,65189,https://steamcdn-a.akamaihd.net/steam/apps/359550/logo.png
+530738,482730,Football Manager 2017,2017-02-01,64232,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+689543,4000,Garry's Mod,2017-02-01,62069,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691870,570,Dota 2,2017-01-01,1007451,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673329,730,Counter-Strike: Global Offensive,2017-01-01,814616,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663314,271590,Grand Theft Auto V,2017-01-01,116125,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635132,440,Team Fortress 2,2017-01-01,77405,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691697,346110,ARK: Survival Evolved,2017-01-01,76879,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+530739,482730,Football Manager 2017,2017-01-01,70286,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+691272,252950,Rocket League,2017-01-01,69669,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+689544,4000,Garry's Mod,2017-01-01,68016,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+667301,252490,Rust,2017-01-01,63843,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+636036,8930,Sid Meier's Civilization V,2017-01-01,54215,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+691871,570,Dota 2,2016-12-01,1014671,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673330,730,Counter-Strike: Global Offensive,2016-12-01,662460,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663315,271590,Grand Theft Auto V,2016-12-01,126681,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635133,440,Team Fortress 2,2016-12-01,71438,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691273,252950,Rocket League,2016-12-01,70352,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691698,346110,ARK: Survival Evolved,2016-12-01,67651,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+530740,482730,Football Manager 2017,2016-12-01,62201,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+689545,4000,Garry's Mod,2016-12-01,60887,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+632457,230410,Warframe,2016-12-01,56812,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+667302,252490,Rust,2016-12-01,49147,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691872,570,Dota 2,2016-11-01,1007270,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673331,730,Counter-Strike: Global Offensive,2016-11-01,627124,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663316,271590,Grand Theft Auto V,2016-11-01,86759,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+640363,289070,Sid Meier's Civilization VI,2016-11-01,84765,https://steamcdn-a.akamaihd.net/steam/apps/289070/logo.png
+635134,440,Team Fortress 2,2016-11-01,77056,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+632458,230410,Warframe,2016-11-01,68530,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+546973,489830,The Elder Scrolls V: Skyrim Special Edition,2016-11-01,65584,https://steamcdn-a.akamaihd.net/steam/apps/489830/logo.png
+677835,444090,Paladins,2016-11-01,60566,https://steamcdn-a.akamaihd.net/steam/apps/444090/logo.png
+530741,482730,Football Manager 2017,2016-11-01,60105,https://steamcdn-a.akamaihd.net/steam/apps/482730/logo.png
+689546,4000,Garry's Mod,2016-11-01,56678,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691873,570,Dota 2,2016-10-01,1141191,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673332,730,Counter-Strike: Global Offensive,2016-10-01,661985,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+640364,289070,Sid Meier's Civilization VI,2016-10-01,162314,https://steamcdn-a.akamaihd.net/steam/apps/289070/logo.png
+663317,271590,Grand Theft Auto V,2016-10-01,86192,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635135,440,Team Fortress 2,2016-10-01,81153,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636039,8930,Sid Meier's Civilization V,2016-10-01,72026,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+546974,489830,The Elder Scrolls V: Skyrim Special Edition,2016-10-01,69777,https://steamcdn-a.akamaihd.net/steam/apps/489830/logo.png
+691275,252950,Rocket League,2016-10-01,59526,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691700,346110,ARK: Survival Evolved,2016-10-01,59524,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+677836,444090,Paladins,2016-10-01,56149,https://steamcdn-a.akamaihd.net/steam/apps/444090/logo.png
+691874,570,Dota 2,2016-09-01,1064377,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673333,730,Counter-Strike: Global Offensive,2016-09-01,638360,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691276,252950,Rocket League,2016-09-01,79304,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+635136,440,Team Fortress 2,2016-09-01,74797,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636040,8930,Sid Meier's Civilization V,2016-09-01,67413,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+691701,346110,ARK: Survival Evolved,2016-09-01,67157,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+656804,378120,Football Manager 2016,2016-09-01,62154,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+663318,271590,Grand Theft Auto V,2016-09-01,61921,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+689548,4000,Garry's Mod,2016-09-01,53570,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+667305,252490,Rust,2016-09-01,50680,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+691875,570,Dota 2,2016-08-01,1117519,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673334,730,Counter-Strike: Global Offensive,2016-08-01,599095,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+638709,275850,No Man's Sky,2016-08-01,212321,https://steamcdn-a.akamaihd.net/steam/apps/275850/logo.png
+635137,440,Team Fortress 2,2016-08-01,72111,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663319,271590,Grand Theft Auto V,2016-08-01,63873,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+636041,8930,Sid Meier's Civilization V,2016-08-01,62143,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+691702,346110,ARK: Survival Evolved,2016-08-01,60039,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+656805,378120,Football Manager 2016,2016-08-01,59713,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+689549,4000,Garry's Mod,2016-08-01,56748,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+667445,304930,Unturned,2016-08-01,55141,https://steamcdn-a.akamaihd.net/steam/apps/304930/logo.png
+691876,570,Dota 2,2016-07-01,1084198,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673335,730,Counter-Strike: Global Offensive,2016-07-01,636056,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+636042,8930,Sid Meier's Civilization V,2016-07-01,73683,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+635138,440,Team Fortress 2,2016-07-01,72643,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663320,271590,Grand Theft Auto V,2016-07-01,71778,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691703,346110,ARK: Survival Evolved,2016-07-01,69764,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+656806,378120,Football Manager 2016,2016-07-01,68505,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+667307,252490,Rust,2016-07-01,64555,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+631035,211820,Starbound,2016-07-01,62201,https://steamcdn-a.akamaihd.net/steam/apps/211820/logo.png
+632462,230410,Warframe,2016-07-01,61417,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+691877,570,Dota 2,2016-06-01,1095994,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673336,730,Counter-Strike: Global Offensive,2016-06-01,579110,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663321,271590,Grand Theft Auto V,2016-06-01,78330,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635139,440,Team Fortress 2,2016-06-01,72453,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691704,346110,ARK: Survival Evolved,2016-06-01,71194,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+636043,8930,Sid Meier's Civilization V,2016-06-01,70936,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+603923,364360,Total War: WARHAMMER,2016-06-01,70633,https://steamcdn-a.akamaihd.net/steam/apps/364360/logo.png
+656807,378120,Football Manager 2016,2016-06-01,68902,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+689551,4000,Garry's Mod,2016-06-01,59819,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691279,252950,Rocket League,2016-06-01,55029,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+691878,570,Dota 2,2016-05-01,1075307,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673337,730,Counter-Strike: Global Offensive,2016-05-01,668612,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+603924,364360,Total War: WARHAMMER,2016-05-01,111909,https://steamcdn-a.akamaihd.net/steam/apps/364360/logo.png
+636044,8930,Sid Meier's Civilization V,2016-05-01,87959,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+665718,374320,DARK SOULS™ III,2016-05-01,78374,https://steamcdn-a.akamaihd.net/steam/apps/374320/logo.png
+691705,346110,ARK: Survival Evolved,2016-05-01,78089,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635140,440,Team Fortress 2,2016-05-01,77972,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+623120,377160,Fallout 4,2016-05-01,74283,https://steamcdn-a.akamaihd.net/steam/apps/377160/logo.png
+675432,281990,Stellaris,2016-05-01,68517,https://steamcdn-a.akamaihd.net/steam/apps/281990/logo.png
+656808,378120,Football Manager 2016,2016-05-01,67572,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+691879,570,Dota 2,2016-04-01,1164041,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673338,730,Counter-Strike: Global Offensive,2016-04-01,850485,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+665719,374320,DARK SOULS™ III,2016-04-01,129831,https://steamcdn-a.akamaihd.net/steam/apps/374320/logo.png
+691281,252950,Rocket League,2016-04-01,102684,https://steamcdn-a.akamaihd.net/steam/apps/252950/logo.png
+635141,440,Team Fortress 2,2016-04-01,81206,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663323,271590,Grand Theft Auto V,2016-04-01,65878,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+656809,378120,Football Manager 2016,2016-04-01,64979,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+691706,346110,ARK: Survival Evolved,2016-04-01,63900,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+636045,8930,Sid Meier's Civilization V,2016-04-01,59108,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689553,4000,Garry's Mod,2016-04-01,59069,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691880,570,Dota 2,2016-03-01,1291328,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673339,730,Counter-Strike: Global Offensive,2016-03-01,737599,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+625466,365590,Tom Clancy's The Division,2016-03-01,113877,https://steamcdn-a.akamaihd.net/steam/apps/365590/logo.png
+635142,440,Team Fortress 2,2016-03-01,83425,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+656810,378120,Football Manager 2016,2016-03-01,68944,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+632466,230410,Warframe,2016-03-01,66308,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+636046,8930,Sid Meier's Civilization V,2016-03-01,65453,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+663324,271590,Grand Theft Auto V,2016-03-01,64633,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+668482,413150,Stardew Valley,2016-03-01,64256,https://steamcdn-a.akamaihd.net/steam/apps/413150/logo.png
+691707,346110,ARK: Survival Evolved,2016-03-01,63069,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+691881,570,Dota 2,2016-02-01,1248394,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673340,730,Counter-Strike: Global Offensive,2016-02-01,738969,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+673435,268500,XCOM 2,2016-02-01,132677,https://steamcdn-a.akamaihd.net/steam/apps/268500/logo.png
+635143,440,Team Fortress 2,2016-02-01,83544,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+656811,378120,Football Manager 2016,2016-02-01,75083,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+636047,8930,Sid Meier's Civilization V,2016-02-01,74716,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+663325,271590,Grand Theft Auto V,2016-02-01,72735,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691708,346110,ARK: Survival Evolved,2016-02-01,65577,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+689555,4000,Garry's Mod,2016-02-01,64930,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+623123,377160,Fallout 4,2016-02-01,61739,https://steamcdn-a.akamaihd.net/steam/apps/377160/logo.png
+691882,570,Dota 2,2016-01-01,1067949,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673341,730,Counter-Strike: Global Offensive,2016-01-01,667432,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+623124,377160,Fallout 4,2016-01-01,119272,https://steamcdn-a.akamaihd.net/steam/apps/377160/logo.png
+663326,271590,Grand Theft Auto V,2016-01-01,93726,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+656812,378120,Football Manager 2016,2016-01-01,82554,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+635144,440,Team Fortress 2,2016-01-01,80583,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636048,8930,Sid Meier's Civilization V,2016-01-01,78252,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689556,4000,Garry's Mod,2016-01-01,69854,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691709,346110,ARK: Survival Evolved,2016-01-01,67018,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+600610,72850,The Elder Scrolls V: Skyrim,2016-01-01,60553,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+691883,570,Dota 2,2015-12-01,999452,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673342,730,Counter-Strike: Global Offensive,2015-12-01,823694,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+623125,377160,Fallout 4,2015-12-01,201635,https://steamcdn-a.akamaihd.net/steam/apps/377160/logo.png
+663327,271590,Grand Theft Auto V,2015-12-01,84558,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+635145,440,Team Fortress 2,2015-12-01,82824,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+656813,378120,Football Manager 2016,2015-12-01,73067,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+636049,8930,Sid Meier's Civilization V,2015-12-01,69206,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689557,4000,Garry's Mod,2015-12-01,65324,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+632469,230410,Warframe,2015-12-01,58502,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+691710,346110,ARK: Survival Evolved,2015-12-01,55946,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+691884,570,Dota 2,2015-11-01,943635,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673343,730,Counter-Strike: Global Offensive,2015-11-01,786707,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+623126,377160,Fallout 4,2015-11-01,471955,https://steamcdn-a.akamaihd.net/steam/apps/377160/logo.png
+635146,440,Team Fortress 2,2015-11-01,91588,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663328,271590,Grand Theft Auto V,2015-11-01,77141,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+656814,378120,Football Manager 2016,2015-11-01,65264,https://steamcdn-a.akamaihd.net/steam/apps/378120/logo.png
+627540,311210,Call of Duty: Black Ops III,2015-11-01,63681,https://steamcdn-a.akamaihd.net/steam/apps/311210/logo.png
+689558,4000,Garry's Mod,2015-11-01,60907,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691711,346110,ARK: Survival Evolved,2015-11-01,59880,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+636050,8930,Sid Meier's Civilization V,2015-11-01,58683,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+691885,570,Dota 2,2015-10-01,917306,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673344,730,Counter-Strike: Global Offensive,2015-10-01,732093,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635147,440,Team Fortress 2,2015-10-01,91684,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+663329,271590,Grand Theft Auto V,2015-10-01,73902,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+629213,250900,The Binding of Isaac: Rebirth,2015-10-01,69673,https://steamcdn-a.akamaihd.net/steam/apps/250900/logo.png
+691712,346110,ARK: Survival Evolved,2015-10-01,64516,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+636051,8930,Sid Meier's Civilization V,2015-10-01,53106,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+669804,218620,PAYDAY 2,2015-10-01,52376,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+47427,295270,Football Manager 2015,2015-10-01,51433,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+689559,4000,Garry's Mod,2015-10-01,50740,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691886,570,Dota 2,2015-09-01,888728,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673345,730,Counter-Strike: Global Offensive,2015-09-01,725939,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+626514,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,2015-09-01,90952,https://steamcdn-a.akamaihd.net/steam/apps/287700/logo.png
+635148,440,Team Fortress 2,2015-09-01,90718,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47428,295270,Football Manager 2015,2015-09-01,66755,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+691713,346110,ARK: Survival Evolved,2015-09-01,60299,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+636052,8930,Sid Meier's Civilization V,2015-09-01,52194,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689560,4000,Garry's Mod,2015-09-01,51555,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+663330,271590,Grand Theft Auto V,2015-09-01,46917,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+557059,363970,Clicker Heroes,2015-09-01,41779,https://steamcdn-a.akamaihd.net/steam/apps/363970/logo.png
+691887,570,Dota 2,2015-08-01,933942,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673346,730,Counter-Strike: Global Offensive,2015-08-01,819902,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635149,440,Team Fortress 2,2015-08-01,85201,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691714,346110,ARK: Survival Evolved,2015-08-01,84838,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+47429,295270,Football Manager 2015,2015-08-01,68079,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+669806,218620,PAYDAY 2,2015-08-01,63535,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+636053,8930,Sid Meier's Civilization V,2015-08-01,60338,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689561,4000,Garry's Mod,2015-08-01,57865,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+584146,105600,Terraria,2015-08-01,54486,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+627263,304050,Trove,2015-08-01,50940,https://steamcdn-a.akamaihd.net/steam/apps/304050/logo.png
+691888,570,Dota 2,2015-07-01,877264,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673347,730,Counter-Strike: Global Offensive,2015-07-01,541181,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+584147,105600,Terraria,2015-07-01,149316,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+635150,440,Team Fortress 2,2015-07-01,83241,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691715,346110,ARK: Survival Evolved,2015-07-01,74888,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+47430,295270,Football Manager 2015,2015-07-01,66720,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+663332,271590,Grand Theft Auto V,2015-07-01,60908,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+557061,363970,Clicker Heroes,2015-07-01,58967,https://steamcdn-a.akamaihd.net/steam/apps/363970/logo.png
+627264,304050,Trove,2015-07-01,58709,https://steamcdn-a.akamaihd.net/steam/apps/304050/logo.png
+689562,4000,Garry's Mod,2015-07-01,53414,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691889,570,Dota 2,2015-06-01,913997,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673348,730,Counter-Strike: Global Offensive,2015-06-01,610401,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+584148,105600,Terraria,2015-06-01,158947,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+663333,271590,Grand Theft Auto V,2015-06-01,85195,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+691716,346110,ARK: Survival Evolved,2015-06-01,80162,https://steamcdn-a.akamaihd.net/steam/apps/346110/logo.png
+635151,440,Team Fortress 2,2015-06-01,78971,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47431,295270,Football Manager 2015,2015-06-01,76727,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+557062,363970,Clicker Heroes,2015-06-01,65560,https://steamcdn-a.akamaihd.net/steam/apps/363970/logo.png
+667398,292030,The Witcher 3: Wild Hunt,2015-06-01,55408,https://steamcdn-a.akamaihd.net/steam/apps/292030/logo.png
+636055,8930,Sid Meier's Civilization V,2015-06-01,53711,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+691890,570,Dota 2,2015-05-01,967674,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673349,730,Counter-Strike: Global Offensive,2015-05-01,677701,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663334,271590,Grand Theft Auto V,2015-05-01,215966,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+667399,292030,The Witcher 3: Wild Hunt,2015-05-01,92268,https://steamcdn-a.akamaihd.net/steam/apps/292030/logo.png
+635152,440,Team Fortress 2,2015-05-01,84603,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47432,295270,Football Manager 2015,2015-05-01,71085,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+600618,72850,The Elder Scrolls V: Skyrim,2015-05-01,62658,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+557063,363970,Clicker Heroes,2015-05-01,58173,https://steamcdn-a.akamaihd.net/steam/apps/363970/logo.png
+636056,8930,Sid Meier's Civilization V,2015-05-01,52490,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689564,4000,Garry's Mod,2015-05-01,52285,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691891,570,Dota 2,2015-04-01,929677,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673350,730,Counter-Strike: Global Offensive,2015-04-01,568556,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+663335,271590,Grand Theft Auto V,2015-04-01,360761,https://steamcdn-a.akamaihd.net/steam/apps/271590/logo.png
+600619,72850,The Elder Scrolls V: Skyrim,2015-04-01,90780,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+635153,440,Team Fortress 2,2015-04-01,84438,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47433,295270,Football Manager 2015,2015-04-01,67867,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+689565,4000,Garry's Mod,2015-04-01,59154,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+636057,8930,Sid Meier's Civilization V,2015-04-01,55583,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+682545,107410,Arma 3,2015-04-01,44017,https://steamcdn-a.akamaihd.net/steam/apps/107410/logo.png
+632477,230410,Warframe,2015-04-01,40497,https://steamcdn-a.akamaihd.net/steam/apps/230410/logo.png
+691892,570,Dota 2,2015-03-01,1213940,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673351,730,Counter-Strike: Global Offensive,2015-03-01,595439,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635154,440,Team Fortress 2,2015-03-01,89571,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+669811,218620,PAYDAY 2,2015-03-01,81105,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+47434,295270,Football Manager 2015,2015-03-01,69974,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+636058,8930,Sid Meier's Civilization V,2015-03-01,67160,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689566,4000,Garry's Mod,2015-03-01,65458,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+682434,255710,Cities: Skylines,2015-03-01,57421,https://steamcdn-a.akamaihd.net/steam/apps/255710/logo.png
+600620,72850,The Elder Scrolls V: Skyrim,2015-03-01,51015,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+682546,107410,Arma 3,2015-03-01,44092,https://steamcdn-a.akamaihd.net/steam/apps/107410/logo.png
+691893,570,Dota 2,2015-02-01,1262612,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673352,730,Counter-Strike: Global Offensive,2015-02-01,455508,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635155,440,Team Fortress 2,2015-02-01,90599,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47435,295270,Football Manager 2015,2015-02-01,76894,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+689567,4000,Garry's Mod,2015-02-01,67527,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+636059,8930,Sid Meier's Civilization V,2015-02-01,59719,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+600621,72850,The Elder Scrolls V: Skyrim,2015-02-01,56609,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+683589,239140,Dying Light,2015-02-01,45770,https://steamcdn-a.akamaihd.net/steam/apps/239140/logo.png
+631052,211820,Starbound,2015-02-01,40131,https://steamcdn-a.akamaihd.net/steam/apps/211820/logo.png
+631549,214950,Total War: ROME II - Emperor Edition,2015-02-01,38582,https://steamcdn-a.akamaihd.net/steam/apps/214950/logo.png
+691894,570,Dota 2,2015-01-01,961737,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673353,730,Counter-Strike: Global Offensive,2015-01-01,443188,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635156,440,Team Fortress 2,2015-01-01,94272,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47436,295270,Football Manager 2015,2015-01-01,81485,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+689568,4000,Garry's Mod,2015-01-01,73750,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+600622,72850,The Elder Scrolls V: Skyrim,2015-01-01,69249,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+636060,8930,Sid Meier's Civilization V,2015-01-01,62502,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+682548,107410,Arma 3,2015-01-01,44621,https://steamcdn-a.akamaihd.net/steam/apps/107410/logo.png
+626861,295110,Just Survive,2015-01-01,40254,https://steamcdn-a.akamaihd.net/steam/apps/295110/logo.png
+599705,206420,Saints Row IV,2015-01-01,40141,https://steamcdn-a.akamaihd.net/steam/apps/206420/logo.png
+691895,570,Dota 2,2014-12-01,936583,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673354,730,Counter-Strike: Global Offensive,2014-12-01,367634,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635157,440,Team Fortress 2,2014-12-01,97449,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47437,295270,Football Manager 2015,2014-12-01,75898,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+600623,72850,The Elder Scrolls V: Skyrim,2014-12-01,61315,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+689569,4000,Garry's Mod,2014-12-01,59773,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+636061,8930,Sid Meier's Civilization V,2014-12-01,58038,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+517995,10,Counter-Strike,2014-12-01,36393,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+682549,107410,Arma 3,2014-12-01,36250,https://steamcdn-a.akamaihd.net/steam/apps/107410/logo.png
+669814,218620,PAYDAY 2,2014-12-01,30874,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+691896,570,Dota 2,2014-11-01,963810,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673355,730,Counter-Strike: Global Offensive,2014-11-01,348018,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635158,440,Team Fortress 2,2014-11-01,104323,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+47438,295270,Football Manager 2015,2014-11-01,70361,https://steamcdn-a.akamaihd.net/steam/apps/295270/logo.png
+629224,250900,The Binding of Isaac: Rebirth,2014-11-01,65836,https://steamcdn-a.akamaihd.net/steam/apps/250900/logo.png
+689570,4000,Garry's Mod,2014-11-01,60734,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+669815,218620,PAYDAY 2,2014-11-01,59664,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+636062,8930,Sid Meier's Civilization V,2014-11-01,55229,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+600624,72850,The Elder Scrolls V: Skyrim,2014-11-01,47190,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+111710,231670,Football Manager 2014,2014-11-01,39661,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+691897,570,Dota 2,2014-10-01,880655,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673356,730,Counter-Strike: Global Offensive,2014-10-01,260613,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635159,440,Team Fortress 2,2014-10-01,101741,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+635908,65980,Sid Meier's Civilization: Beyond Earth,2014-10-01,86747,https://steamcdn-a.akamaihd.net/steam/apps/65980/logo.png
+669816,218620,PAYDAY 2,2014-10-01,72242,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+82389,261640,Borderlands: The Pre-Sequel,2014-10-01,67244,https://steamcdn-a.akamaihd.net/steam/apps/261640/logo.png
+636063,8930,Sid Meier's Civilization V,2014-10-01,55493,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689571,4000,Garry's Mod,2014-10-01,54617,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+111711,231670,Football Manager 2014,2014-10-01,49864,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+634126,24240,PAYDAY: The Heist,2014-10-01,49734,https://steamcdn-a.akamaihd.net/steam/apps/24240/logo.png
+691898,570,Dota 2,2014-09-01,864261,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673357,730,Counter-Strike: Global Offensive,2014-09-01,242494,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635160,440,Team Fortress 2,2014-09-01,93749,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+600626,72850,The Elder Scrolls V: Skyrim,2014-09-01,69218,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+111712,231670,Football Manager 2014,2014-09-01,66662,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636064,8930,Sid Meier's Civilization V,2014-09-01,66292,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689572,4000,Garry's Mod,2014-09-01,52741,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+631554,214950,Total War: ROME II - Emperor Edition,2014-09-01,37680,https://steamcdn-a.akamaihd.net/steam/apps/214950/logo.png
+628394,241930,Middle-earth™: Shadow of Mordor™,2014-09-01,33928,https://steamcdn-a.akamaihd.net/steam/apps/241930/logo.png
+665083,49520,Borderlands 2,2014-09-01,32832,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+691899,570,Dota 2,2014-08-01,774319,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673358,730,Counter-Strike: Global Offensive,2014-08-01,277192,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635161,440,Team Fortress 2,2014-08-01,83414,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636065,8930,Sid Meier's Civilization V,2014-08-01,80375,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+665084,49520,Borderlands 2,2014-08-01,67322,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+111713,231670,Football Manager 2014,2014-08-01,65735,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+667469,304930,Unturned,2014-08-01,53547,https://steamcdn-a.akamaihd.net/steam/apps/304930/logo.png
+689573,4000,Garry's Mod,2014-08-01,51503,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+600627,72850,The Elder Scrolls V: Skyrim,2014-08-01,49658,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+517999,10,Counter-Strike,2014-08-01,29564,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691900,570,Dota 2,2014-07-01,874975,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673359,730,Counter-Strike: Global Offensive,2014-07-01,193613,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635162,440,Team Fortress 2,2014-07-01,76060,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+111714,231670,Football Manager 2014,2014-07-01,65844,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636066,8930,Sid Meier's Civilization V,2014-07-01,65738,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+667470,304930,Unturned,2014-07-01,62450,https://steamcdn-a.akamaihd.net/steam/apps/304930/logo.png
+689574,4000,Garry's Mod,2014-07-01,61425,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+600628,72850,The Elder Scrolls V: Skyrim,2014-07-01,60211,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+669819,218620,PAYDAY 2,2014-07-01,57166,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+635436,48700,Mount & Blade: Warband,2014-07-01,32799,https://steamcdn-a.akamaihd.net/steam/apps/48700/logo.png
+691901,570,Dota 2,2014-06-01,833145,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673360,730,Counter-Strike: Global Offensive,2014-06-01,164134,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635163,440,Team Fortress 2,2014-06-01,90242,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636067,8930,Sid Meier's Civilization V,2014-06-01,71677,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+111715,231670,Football Manager 2014,2014-06-01,70688,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+695425,63380,Sniper Elite V2,2014-06-01,70123,https://steamcdn-a.akamaihd.net/steam/apps/63380/logo.png
+689575,4000,Garry's Mod,2014-06-01,68101,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+600629,72850,The Elder Scrolls V: Skyrim,2014-06-01,64627,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+669820,218620,PAYDAY 2,2014-06-01,63749,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+665086,49520,Borderlands 2,2014-06-01,37558,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+691902,570,Dota 2,2014-05-01,843024,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673361,730,Counter-Strike: Global Offensive,2014-05-01,170137,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635164,440,Team Fortress 2,2014-05-01,80053,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+111716,231670,Football Manager 2014,2014-05-01,67747,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+627613,236430,DARK SOULS™ II,2014-05-01,62791,https://steamcdn-a.akamaihd.net/steam/apps/236430/logo.png
+636068,8930,Sid Meier's Civilization V,2014-05-01,56011,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+609327,243470,Watch_Dogs,2014-05-01,47820,https://steamcdn-a.akamaihd.net/steam/apps/243470/logo.png
+689576,4000,Garry's Mod,2014-05-01,47497,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+682556,107410,Arma 3,2014-05-01,46089,https://steamcdn-a.akamaihd.net/steam/apps/107410/logo.png
+600630,72850,The Elder Scrolls V: Skyrim,2014-05-01,43799,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+691903,570,Dota 2,2014-04-01,734998,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673362,730,Counter-Strike: Global Offensive,2014-04-01,142526,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635165,440,Team Fortress 2,2014-04-01,80730,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+627614,236430,DARK SOULS™ II,2014-04-01,79528,https://steamcdn-a.akamaihd.net/steam/apps/236430/logo.png
+111717,231670,Football Manager 2014,2014-04-01,67610,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636069,8930,Sid Meier's Civilization V,2014-04-01,57627,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689577,4000,Garry's Mod,2014-04-01,48674,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+600631,72850,The Elder Scrolls V: Skyrim,2014-04-01,44749,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+631989,221100,DayZ,2014-04-01,36653,https://steamcdn-a.akamaihd.net/steam/apps/221100/logo.png
+518003,10,Counter-Strike,2014-04-01,35774,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691904,570,Dota 2,2014-03-01,698197,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673363,730,Counter-Strike: Global Offensive,2014-03-01,164495,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635166,440,Team Fortress 2,2014-03-01,82998,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+111718,231670,Football Manager 2014,2014-03-01,64318,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636070,8930,Sid Meier's Civilization V,2014-03-01,64115,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+669823,218620,PAYDAY 2,2014-03-01,55122,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+667335,252490,Rust,2014-03-01,48870,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+600632,72850,The Elder Scrolls V: Skyrim,2014-03-01,47498,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+689578,4000,Garry's Mod,2014-03-01,47455,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+518004,10,Counter-Strike,2014-03-01,39230,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691905,570,Dota 2,2014-02-01,738682,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673364,730,Counter-Strike: Global Offensive,2014-02-01,119764,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635167,440,Team Fortress 2,2014-02-01,83502,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+111719,231670,Football Manager 2014,2014-02-01,74040,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636071,8930,Sid Meier's Civilization V,2014-02-01,72416,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+600633,72850,The Elder Scrolls V: Skyrim,2014-02-01,61572,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+667336,252490,Rust,2014-02-01,58973,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+689579,4000,Garry's Mod,2014-02-01,53387,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+665090,49520,Borderlands 2,2014-02-01,47105,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+518005,10,Counter-Strike,2014-02-01,41945,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691906,570,Dota 2,2014-01-01,673496,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673365,730,Counter-Strike: Global Offensive,2014-01-01,102084,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635168,440,Team Fortress 2,2014-01-01,83323,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+111720,231670,Football Manager 2014,2014-01-01,78611,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+600634,72850,The Elder Scrolls V: Skyrim,2014-01-01,78420,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+636072,8930,Sid Meier's Civilization V,2014-01-01,77825,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+657453,550,Left 4 Dead 2,2014-01-01,61325,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png
+689580,4000,Garry's Mod,2014-01-01,57327,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+667337,252490,Rust,2014-01-01,51872,https://steamcdn-a.akamaihd.net/steam/apps/252490/logo.png
+518006,10,Counter-Strike,2014-01-01,44491,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691907,570,Dota 2,2013-12-01,685503,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+657454,550,Left 4 Dead 2,2013-12-01,161590,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png
+673366,730,Counter-Strike: Global Offensive,2013-12-01,96298,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+631066,211820,Starbound,2013-12-01,88355,https://steamcdn-a.akamaihd.net/steam/apps/211820/logo.png
+635169,440,Team Fortress 2,2013-12-01,86393,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+600635,72850,The Elder Scrolls V: Skyrim,2013-12-01,76034,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+111721,231670,Football Manager 2014,2013-12-01,73509,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636073,8930,Sid Meier's Civilization V,2013-12-01,70367,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+689581,4000,Garry's Mod,2013-12-01,53559,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+631993,221100,DayZ,2013-12-01,45398,https://steamcdn-a.akamaihd.net/steam/apps/221100/logo.png
+691908,570,Dota 2,2013-11-01,702792,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+673367,730,Counter-Strike: Global Offensive,2013-11-01,92279,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635170,440,Team Fortress 2,2013-11-01,79961,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+600636,72850,The Elder Scrolls V: Skyrim,2013-11-01,66295,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+111722,231670,Football Manager 2014,2013-11-01,66145,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+636074,8930,Sid Meier's Civilization V,2013-11-01,54473,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+584167,105600,Terraria,2013-11-01,40370,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+518008,10,Counter-Strike,2013-11-01,39826,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+689582,4000,Garry's Mod,2013-11-01,38574,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+545591,209170,Call of Duty: Ghosts - Multiplayer,2013-11-01,36922,https://steamcdn-a.akamaihd.net/steam/apps/209170/logo.png
+691909,570,Dota 2,2013-10-01,581615,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+584168,105600,Terraria,2013-10-01,97392,https://steamcdn-a.akamaihd.net/steam/apps/105600/logo.png
+635171,440,Team Fortress 2,2013-10-01,74370,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636075,8930,Sid Meier's Civilization V,2013-10-01,63023,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+673368,730,Counter-Strike: Global Offensive,2013-10-01,53263,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+111723,231670,Football Manager 2014,2013-10-01,46886,https://steamcdn-a.akamaihd.net/steam/apps/231670/logo.png
+654843,207890,Football Manager 2013,2013-10-01,46012,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+600637,72850,The Elder Scrolls V: Skyrim,2013-10-01,40681,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+631565,214950,Total War: ROME II - Emperor Edition,2013-10-01,37686,https://steamcdn-a.akamaihd.net/steam/apps/214950/logo.png
+518009,10,Counter-Strike,2013-10-01,36655,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691910,570,Dota 2,2013-09-01,566715,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+631566,214950,Total War: ROME II - Emperor Edition,2013-09-01,118240,https://steamcdn-a.akamaihd.net/steam/apps/214950/logo.png
+635172,440,Team Fortress 2,2013-09-01,77493,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+654844,207890,Football Manager 2013,2013-09-01,64706,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+636076,8930,Sid Meier's Civilization V,2013-09-01,58003,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+673369,730,Counter-Strike: Global Offensive,2013-09-01,52052,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+689584,4000,Garry's Mod,2013-09-01,47070,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+599440,202990,Call of Duty: Black Ops II - Multiplayer,2013-09-01,46309,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+600638,72850,The Elder Scrolls V: Skyrim,2013-09-01,45287,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+518010,10,Counter-Strike,2013-09-01,36983,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691911,570,Dota 2,2013-08-01,520532,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635173,440,Team Fortress 2,2013-08-01,74504,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636077,8930,Sid Meier's Civilization V,2013-08-01,64123,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+669830,218620,PAYDAY 2,2013-08-01,57346,https://steamcdn-a.akamaihd.net/steam/apps/218620/logo.png
+600639,72850,The Elder Scrolls V: Skyrim,2013-08-01,53411,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+654845,207890,Football Manager 2013,2013-08-01,51554,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+673370,730,Counter-Strike: Global Offensive,2013-08-01,50511,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+599722,206420,Saints Row IV,2013-08-01,38627,https://steamcdn-a.akamaihd.net/steam/apps/206420/logo.png
+689585,4000,Garry's Mod,2013-08-01,34321,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+518011,10,Counter-Strike,2013-08-01,34230,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+691912,570,Dota 2,2013-07-01,422617,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+636078,8930,Sid Meier's Civilization V,2013-07-01,91020,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+635174,440,Team Fortress 2,2013-07-01,72803,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+665097,49520,Borderlands 2,2013-07-01,49680,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+654846,207890,Football Manager 2013,2013-07-01,47728,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+600640,72850,The Elder Scrolls V: Skyrim,2013-07-01,47426,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+673371,730,Counter-Strike: Global Offensive,2013-07-01,42149,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+657459,550,Left 4 Dead 2,2013-07-01,39026,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png
+518012,10,Counter-Strike,2013-07-01,34412,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+689586,4000,Garry's Mod,2013-07-01,33522,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691913,570,Dota 2,2013-06-01,326160,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635175,440,Team Fortress 2,2013-06-01,77349,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+636079,8930,Sid Meier's Civilization V,2013-06-01,67729,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+654847,207890,Football Manager 2013,2013-06-01,63564,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+600641,72850,The Elder Scrolls V: Skyrim,2013-06-01,38785,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+518013,10,Counter-Strike,2013-06-01,35960,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+550453,55230,Saints Row: The Third,2013-06-01,34254,https://steamcdn-a.akamaihd.net/steam/apps/55230/logo.png
+673372,730,Counter-Strike: Global Offensive,2013-06-01,33700,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+668589,240,Counter-Strike: Source,2013-06-01,31888,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+665098,49520,Borderlands 2,2013-06-01,27818,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+691914,570,Dota 2,2013-05-01,325815,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635176,440,Team Fortress 2,2013-05-01,75126,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+654848,207890,Football Manager 2013,2013-05-01,66989,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+599444,202990,Call of Duty: Black Ops II - Multiplayer,2013-05-01,58062,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+673373,730,Counter-Strike: Global Offensive,2013-05-01,53379,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+665099,49520,Borderlands 2,2013-05-01,40649,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+600642,72850,The Elder Scrolls V: Skyrim,2013-05-01,37327,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+518014,10,Counter-Strike,2013-05-01,36913,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+636080,8930,Sid Meier's Civilization V,2013-05-01,36679,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+668590,240,Counter-Strike: Source,2013-05-01,32727,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+691915,570,Dota 2,2013-04-01,299667,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635177,440,Team Fortress 2,2013-04-01,71706,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+654849,207890,Football Manager 2013,2013-04-01,63342,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+518015,10,Counter-Strike,2013-04-01,43856,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+600643,72850,The Elder Scrolls V: Skyrim,2013-04-01,40688,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+636081,8930,Sid Meier's Civilization V,2013-04-01,39478,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+668591,240,Counter-Strike: Source,2013-04-01,38507,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+599445,202990,Call of Duty: Black Ops II - Multiplayer,2013-04-01,35653,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+673374,730,Counter-Strike: Global Offensive,2013-04-01,31966,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635994,8870,BioShock Infinite,2013-04-01,27908,https://steamcdn-a.akamaihd.net/steam/apps/8870/logo.png
+691916,570,Dota 2,2013-03-01,325598,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635178,440,Team Fortress 2,2013-03-01,72799,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+654850,207890,Football Manager 2013,2013-03-01,66523,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+635995,8870,BioShock Infinite,2013-03-01,65198,https://steamcdn-a.akamaihd.net/steam/apps/8870/logo.png
+518016,10,Counter-Strike,2013-03-01,49412,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+600644,72850,The Elder Scrolls V: Skyrim,2013-03-01,48233,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+636082,8930,Sid Meier's Civilization V,2013-03-01,43780,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+668592,240,Counter-Strike: Source,2013-03-01,40117,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+599446,202990,Call of Duty: Black Ops II - Multiplayer,2013-03-01,38245,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+673375,730,Counter-Strike: Global Offensive,2013-03-01,32166,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691917,570,Dota 2,2013-02-01,283870,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+654851,207890,Football Manager 2013,2013-02-01,78720,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+635179,440,Team Fortress 2,2013-02-01,72893,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+599447,202990,Call of Duty: Black Ops II - Multiplayer,2013-02-01,70819,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+600645,72850,The Elder Scrolls V: Skyrim,2013-02-01,67911,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+518017,10,Counter-Strike,2013-02-01,60134,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+636083,8930,Sid Meier's Civilization V,2013-02-01,44966,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+668593,240,Counter-Strike: Source,2013-02-01,43945,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+673376,730,Counter-Strike: Global Offensive,2013-02-01,35238,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+689591,4000,Garry's Mod,2013-02-01,28488,https://steamcdn-a.akamaihd.net/steam/apps/4000/logo.png
+691918,570,Dota 2,2013-01-01,260989,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+654852,207890,Football Manager 2013,2013-01-01,87420,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+635180,440,Team Fortress 2,2013-01-01,74300,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+518018,10,Counter-Strike,2013-01-01,65188,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+636084,8930,Sid Meier's Civilization V,2013-01-01,58386,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+600646,72850,The Elder Scrolls V: Skyrim,2013-01-01,54570,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+668594,240,Counter-Strike: Source,2013-01-01,48458,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+599448,202990,Call of Duty: Black Ops II - Multiplayer,2013-01-01,46616,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+673377,730,Counter-Strike: Global Offensive,2013-01-01,31359,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+665103,49520,Borderlands 2,2013-01-01,28507,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+691919,570,Dota 2,2012-12-01,213521,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+654853,207890,Football Manager 2013,2012-12-01,80648,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+635181,440,Team Fortress 2,2012-12-01,73695,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+518019,10,Counter-Strike,2012-12-01,61189,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+600647,72850,The Elder Scrolls V: Skyrim,2012-12-01,52804,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+636085,8930,Sid Meier's Civilization V,2012-12-01,50891,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+599449,202990,Call of Duty: Black Ops II - Multiplayer,2012-12-01,44563,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+668595,240,Counter-Strike: Source,2012-12-01,44160,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+665104,49520,Borderlands 2,2012-12-01,28993,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+673378,730,Counter-Strike: Global Offensive,2012-12-01,27553,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+691920,570,Dota 2,2012-11-01,169631,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635182,440,Team Fortress 2,2012-11-01,80988,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+654854,207890,Football Manager 2013,2012-11-01,65943,https://steamcdn-a.akamaihd.net/steam/apps/207890/logo.png
+599450,202990,Call of Duty: Black Ops II - Multiplayer,2012-11-01,63831,https://steamcdn-a.akamaihd.net/steam/apps/202990/logo.png
+518020,10,Counter-Strike,2012-11-01,56957,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+673379,730,Counter-Strike: Global Offensive,2012-11-01,50533,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+600648,72850,The Elder Scrolls V: Skyrim,2012-11-01,46165,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+668596,240,Counter-Strike: Source,2012-11-01,42386,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+636086,8930,Sid Meier's Civilization V,2012-11-01,39677,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+445471,42690,Call of Duty: Modern Warfare 3 - Multiplayer,2012-11-01,35749,https://steamcdn-a.akamaihd.net/steam/apps/42690/logo.png
+691921,570,Dota 2,2012-10-01,171860,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635183,440,Team Fortress 2,2012-10-01,106853,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+630038,200510,XCOM: Enemy Unknown,2012-10-01,70560,https://steamcdn-a.akamaihd.net/steam/apps/200510/logo.png
+665106,49520,Borderlands 2,2012-10-01,68559,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+518021,10,Counter-Strike,2012-10-01,56053,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+657468,550,Left 4 Dead 2,2012-10-01,48599,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png
+668597,240,Counter-Strike: Source,2012-10-01,43924,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+428473,71270,Football Manager 2012,2012-10-01,42931,https://steamcdn-a.akamaihd.net/steam/apps/71270/logo.png
+600649,72850,The Elder Scrolls V: Skyrim,2012-10-01,41939,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+445472,42690,Call of Duty: Modern Warfare 3 - Multiplayer,2012-10-01,36533,https://steamcdn-a.akamaihd.net/steam/apps/42690/logo.png
+665107,49520,Borderlands 2,2012-09-01,123596,https://steamcdn-a.akamaihd.net/steam/apps/49520/logo.png
+691922,570,Dota 2,2012-09-01,118724,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635184,440,Team Fortress 2,2012-09-01,90232,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+428474,71270,Football Manager 2012,2012-09-01,63031,https://steamcdn-a.akamaihd.net/steam/apps/71270/logo.png
+445473,42690,Call of Duty: Modern Warfare 3 - Multiplayer,2012-09-01,55900,https://steamcdn-a.akamaihd.net/steam/apps/42690/logo.png
+518022,10,Counter-Strike,2012-09-01,55321,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+630131,200710,Torchlight II,2012-09-01,54010,https://steamcdn-a.akamaihd.net/steam/apps/200710/logo.png
+668598,240,Counter-Strike: Source,2012-09-01,41451,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+600650,72850,The Elder Scrolls V: Skyrim,2012-09-01,38557,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+673381,730,Counter-Strike: Global Offensive,2012-09-01,36057,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+635185,440,Team Fortress 2,2012-08-01,117917,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+691923,570,Dota 2,2012-08-01,108689,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+428475,71270,Football Manager 2012,2012-08-01,63417,https://steamcdn-a.akamaihd.net/steam/apps/71270/logo.png
+600651,72850,The Elder Scrolls V: Skyrim,2012-08-01,55230,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+518023,10,Counter-Strike,2012-08-01,53685,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+673382,730,Counter-Strike: Global Offensive,2012-08-01,52261,https://steamcdn-a.akamaihd.net/steam/apps/730/logo.png
+668599,240,Counter-Strike: Source,2012-08-01,48007,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+636089,8930,Sid Meier's Civilization V,2012-08-01,39110,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+445474,42690,Call of Duty: Modern Warfare 3 - Multiplayer,2012-08-01,38487,https://steamcdn-a.akamaihd.net/steam/apps/42690/logo.png
+657470,550,Left 4 Dead 2,2012-08-01,14848,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png
+691924,570,Dota 2,2012-07-01,75041,https://steamcdn-a.akamaihd.net/steam/apps/570/logo.png
+635186,440,Team Fortress 2,2012-07-01,62321,https://steamcdn-a.akamaihd.net/steam/apps/440/logo.png
+428476,71270,Football Manager 2012,2012-07-01,60437,https://steamcdn-a.akamaihd.net/steam/apps/71270/logo.png
+518024,10,Counter-Strike,2012-07-01,53967,https://steamcdn-a.akamaihd.net/steam/apps/10/logo.png
+636090,8930,Sid Meier's Civilization V,2012-07-01,50756,https://steamcdn-a.akamaihd.net/steam/apps/8930/logo.png
+668600,240,Counter-Strike: Source,2012-07-01,47909,https://steamcdn-a.akamaihd.net/steam/apps/240/logo.png
+600652,72850,The Elder Scrolls V: Skyrim,2012-07-01,39658,https://steamcdn-a.akamaihd.net/steam/apps/72850/logo.png
+445475,42690,Call of Duty: Modern Warfare 3 - Multiplayer,2012-07-01,36521,https://steamcdn-a.akamaihd.net/steam/apps/42690/logo.png
+591779,8980,Borderlands GOTY,2012-07-01,23443,https://steamcdn-a.akamaihd.net/steam/apps/8980/logo.png
+657471,550,Left 4 Dead 2,2012-07-01,21811,https://steamcdn-a.akamaihd.net/steam/apps/550/logo.png

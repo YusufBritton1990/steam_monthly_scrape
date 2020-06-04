@@ -49,7 +49,7 @@ for game_id in game_id_list:
 labels = ['game_id', 'game_title', 'month', 'peak_users','picture_url']
 
 df = pd.DataFrame.from_records(raw_data_list, columns=labels)
-df.to_csv('data.csv')
+df.to_csv('data/data.csv')
 
 end = timeit.timeit()
 print(end - start)
